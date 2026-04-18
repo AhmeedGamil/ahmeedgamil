@@ -200,7 +200,7 @@ infrastructure
 
 <br/>
 
-### ✨ [liquid_glass_easy](https://pub.dev/packages/liquid_glass_easy)
+### <img src="./icons/liquid_glass_easy.png" width="24" align="top" /> [liquid_glass_easy](https://pub.dev/packages/liquid_glass_easy)
 
 > Number one cross-platform Flutter package for interactive liquid glass effects with **7,000+ downloads** on pub.dev.
 > [→ View on pub.dev](https://pub.dev/packages/liquid_glass_easy)
@@ -216,12 +216,12 @@ infrastructure
 > Production e-commerce app where I patched critical security, maps, and performance issues for a large live user base.
 > [→ View on Google Play](https://play.google.com/store/apps/details?id=com.mokasweets.user)
 
-### <img src="https://raw.githubusercontent.com/AhmeedGamil/hamsa/main/screenshot/logo.png" width="24" align="top" /> [Hamsa](https://github.com/AhmeedGamil/hamsa)
+### <img src="https://raw.githubusercontent.com/AhmeedGamil/hamsa/main/screenshots/logo.png" width="24" align="top" /> [Hamsa](https://github.com/AhmeedGamil/hamsa)
 > Large-scale beauty and makeup shopping platform serving Saudi Arabia, Yemen, Oman, and UAE with isolated data, pricing, and currency.
 > Built guest cart merge, secure multi-step checkout, and market-specific payment flows.
 > Delivered glass morphism UI, hero animations, RTL Arabic support, real-time order tracking, and push notifications.
 
-### <img src="https://raw.githubusercontent.com/AhmeedGamil/alhamzi/screenshot/assets/logo.png" width="24" align="top" /> [Alhamzi](https://github.com/AhmeedGamil/alhmazi)
+### <img src="https://raw.githubusercontent.com/AhmeedGamil/alhamzi/main/screenshot/assets/logo.png" width="24" align="top" /> [Alhamzi](https://github.com/AhmeedGamil/alhmazi)
 > Premium fashion shopping app with polished browse-to-checkout flows.
 > Added search, filters, wishlist, secure checkout, real-time tracking, and push notifications.
 > Built smooth glass morphism UI and full RTL Arabic support.
